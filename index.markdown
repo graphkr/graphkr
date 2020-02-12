@@ -64,7 +64,7 @@ Organising committee:
     * <b>Postal address:</b>LIRMM, 161 rue ADA, F34392 Montpellier Cedex 5
 *   [Pierre Marquis](http://www.cril.univ-artois.fr/~marquis/Home,_sweet_home.html), CRIL-CNRS, rue Jean Souvraz, LENS, France
 *   [Sebastian Rudolph](http://sebastian-rudolph.de/doku.php?id=home), Fakultät Informatik, Technische Universität Dresden, Germany
-*   [Michael Cochez](https://research.vu.nl/en/persons/michael-cochez), Vrije Universiteit Amsterdam, Netherlands
+*   [Michael Cochez](https://www.cochez.nl), Vrije Universiteit Amsterdam, Netherlands
 
 Program committee TBD.
 
