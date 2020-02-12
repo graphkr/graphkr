@@ -6,7 +6,6 @@ layout: page
 title: THE SIXTH INTERNATIONAL WORKSHOP ON GRAPH STRUCTURES FOR KNOWLEDGE REPRESENTATION AND REASONING (GKR 2020)
 ---
 
-<a href="http://ecai2020.eu/"><img src="./ecai.jpg" height="90" alt="ECAI 2020" style="border: 3px solid #ccc;"></a>
 
 Jump to:
 
@@ -17,7 +16,7 @@ Jump to:
 * [Program](#program)
 
 
-The development of effective techniques for knowledge representation and reasoning (KRR) is a crucial aspect of successful intelligent systems.
+<a href="http://ecai2020.eu/"><img src="./ecai.jpg" height="90" alt="ECAI 2020" style="border: 3px solid #ccc; padding: 0 15px; margin: 0 5px; float: right;"></a> The development of effective techniques for knowledge representation and reasoning (KRR) is a crucial aspect of successful intelligent systems.
  Different representation paradigms, as well as their use in dedicated reasoning systems, have been extensively studied in the past. Nevertheless, new challenges, problems, and issues have emerged in the context of knowledge representation in Artificial Intelligence (AI), involving the logical manipulation of increasingly large information sets (see for example Semantic Web, BioInformatics and so on). Improvements in storage capacity and performance of computing infrastructure have also affected the nature of KRR systems, shifting their focus towards representational power and execution performance. Therefore, KRR research is faced with a challenge of developing knowledge representation structures optimized for large scale reasoning. This new generation of KRR systems includes graph-based knowledge representation formalisms such as Bayesian Networks (BNs), Semantic Networks (SNs), Conceptual Graphs (CGs), Formal Concept Analysis (FCA), CP-nets, GAI-nets, Argumentation Frameworks all of which have been successfully used in a number of applications. The goal of this workshop is to bring together the researchers involved in the development and application of graph-based knowledge representation formalisms and reasoning techniques.  
 
 
