@@ -11,8 +11,8 @@ Jump to:
 
 * [Submission](#submission)
 * [Topics](#topics)
-* [Proceedings](#Proceedings)
-* [Committees](#Committees)
+* [Proceedings](#proceedings)
+* [Committees](#committees)
 * [Program](#program)
 
 
@@ -28,7 +28,7 @@ Subission deadline: **16 March 2020** <br/>
 Notification date: **13 April 2020**
 Please submit your papers **using the EasyChair system** [here](https://easychair.org/conferences/?conf=gkr2020)
 
-Note that the paper format must respect the ECAI paper format and must be no longer than 8 pages in length. Reviewing will NOT be double blind
+Note that the paper format must respect the ECAI paper format and must be no longer than 8 pages in length. Reviewing will NOT be double blind.
 
 The authors are be responsible for producing camera-ready copies of their papers, conforming to the ECAI 2020 formatting guidelines, for inclusion in the online proceedings. Note that at least one author of each accepted paper/poster is required to register and attend the workshop in order to present the paper.
 
@@ -69,7 +69,7 @@ Organising committee:
 Program committee TBD.
 
 
-Workshop Venue and Program  {id:program}
+Workshop Venue and Program  {#program}
 -------------------
 
 The workshop will take place together with the <a href="http://ecai2020.eu/">ECAI 2020 conference in Santiago de Compostela</a>.
