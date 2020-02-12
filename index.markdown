@@ -26,13 +26,13 @@ Submission {#submission}
 
 Subission deadline: **16 March 2020** <br/>
 Notification date: **13 April 2020**
-Please submit your papers **using the EasyChair system** [here](https://www.easychair.org/)
+Please submit your papers **using the EasyChair system** [here](https://easychair.org/conferences/?conf=gkr2020)
 
 Note that the paper format must respect the ECAI paper format and must be no longer than 8 pages in length. Reviewing will NOT be double blind
 
-The workshop proceedings will be printed and distributed during the workshop. The authors are be responsible for producing camera-ready copies of their papers, conforming to the ECAI 2020 formatting guidelines, for inclusion in the proceedings. Note that at least one author of each accepted paper/poster is required to register and attend the workshop in order to present the paper.
+The authors are be responsible for producing camera-ready copies of their papers, conforming to the ECAI 2020 formatting guidelines, for inclusion in the online proceedings. Note that at least one author of each accepted paper/poster is required to register and attend the workshop in order to present the paper.
 
-The accepted papers will be published in a Springer LNAI series post proceedings available. The deadline for Post Proceedings submission is around September 2020 with a planned publication date in December 2020.
+Extended versions of the accepted papers will be published in a Springer LNAI series post proceedings available. The deadline for Post Proceedings submission is around September 2020 with a planned publication date in December 2020.
 
 
 Topics {#topics}
