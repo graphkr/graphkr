@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: page
+layout: home
 title: THE SIXTH INTERNATIONAL WORKSHOP ON GRAPH STRUCTURES FOR KNOWLEDGE REPRESENTATION AND REASONING (GKR 2020)
 ---
 
@@ -66,7 +66,35 @@ Organising committee:
 *   [Sebastian Rudolph](http://sebastian-rudolph.de/doku.php?id=home), Fakultät Informatik, Technische Universität Dresden, Germany
 *   [Michael Cochez](https://www.cochez.nl), Vrije Universiteit Amsterdam, Netherlands
 
-Program committee TBD.
+Program committee:
+
+* Bruno Yun,The University of Aberdeen
+* Nic Wilson,Insight UCC, Cork
+* Srdjan Vesic,CRIL, CNRS – Univ. Artois
+* Wamberto Vasconcelos,Department of Computing Science, University of Aberdeen
+* Karim Tabia,Artois University
+* Sławek Staworko,INRIA
+* Fatiha Saïs,LRI ( Paris Sud University & CNRS8623), Paris Saclay University
+* Ricardo Oscar Rodriguez,Departamento de Computacin. F.C.N.yN.-UBA
+* Uta Priss,Ostfalia University
+* Simon Polovina,Sheffield Hallam University
+* Nathalie Pernelle,LRI-Universit Paris SUD
+* Nir Oren,University of Aberdeen
+* Jérôme Lang,CNRS, LAMSADE, Université Paris-Dauphine
+* Markus Krötzsch,TU Dresden
+* Mary Keeler,VivoMind, Inc.
+* Robert Jäschke,Humboldt-Universität zu Berlin
+* Nathalie Hernandez,IRIT
+* Dragan Doder,Utrecht University
+* Olivier Corby,INRIA
+* Dan Corbett,Optimodal Technologies
+* Zied Bouraoui,CRIL - CNRS & Univ Artois
+* Pierre Bisquert,INRA
+* Moulin Bernard,Laval University
+* Salem Benferhat,Cril, CNRS UMR8188, Université d'Artois
+* Manuel Atencia,Univ. Grenoble Alpes & INRIA
+* Galia Angelova,Institute for Parallel Processing, Bulgarian Academy of Sciences
+
 
 
 Workshop Venue and Program  {#program}
