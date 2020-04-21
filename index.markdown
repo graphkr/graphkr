@@ -24,8 +24,15 @@ Jump to:
 Submission {#submission}
 -----------------------
 
-Subission deadline: **16 March 2020** <br/>
-Notification date: **13 April 2020**
+<span style="text-decoration: line-through red;">Subission deadline: **16 March 2020** </span><br/>
+<span style="text-decoration: line-through red;">Notification date: **13 April 2020**</span>
+
+Due to the COVID-19 pandemic we are forced to postpone the susmission deadlines for our workshop. New dates:
+
+Subission deadline: <span style="font-variant: small-caps;">**1 June 2020** </span><br/>
+Notification date: <span style="font-variant: small-caps;">**15 June 2020**</span>
+
+
 Please submit your papers **using the EasyChair system** [here](https://easychair.org/conferences/?conf=gkr2020)
 
 Note that the paper format must respect the ECAI paper format and must be no longer than 8 pages in length. Reviewing will NOT be double blind.
