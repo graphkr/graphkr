@@ -27,7 +27,9 @@ Submission {#submission}
 <span style="text-decoration: line-through red;">Subission deadline: **16 March 2020** </span><br/>
 <span style="text-decoration: line-through red;">Notification date: **13 April 2020**</span>
 
-Due to the COVID-19 pandemic we are forced to postpone the susmission deadlines for our workshop. New dates:
+Due to the COVID-19 pandemic we are forced to postpone the susmission deadlines for our workshop. Also check the  <a href="http://ecai2020.eu/covid-awareness/">ECAI COVID-19 website</a> for updates.
+
+### New dates:
 
 Subission deadline: <span style="font-variant: small-caps;">**1 June 2020** </span><br/>
 Notification date: <span style="font-variant: small-caps;">**15 June 2020**</span>
