@@ -28,11 +28,12 @@ Submission {#submission}
 <span style="text-decoration: line-through red;">Notification date: **13 April 2020**</span>
 
 Due to the COVID-19 pandemic we are forced to postpone the susmission deadlines for our workshop. Also check the  <a href="http://ecai2020.eu/covid-awareness/">ECAI COVID-19 website</a> for updates.
+Note that workshop authors and participants can attend the workshop for free. more information from https://digital.ecai2020.eu/ .
 
 ### New dates:
 
-Subission deadline: <span style="font-variant: small-caps;">**1 June 2020** </span><br/>
-Notification date: <span style="font-variant: small-caps;">**15 June 2020**</span>
+Subission deadline: <span style="font-variant: small-caps;">**3 July 2020** </span><br/>
+Notification date: <span style="font-variant: small-caps;">**31 July 2020**</span>
 
 
 Please submit your papers **using the EasyChair system** [here](https://easychair.org/conferences/?conf=gkr2020)
@@ -109,10 +110,12 @@ Program committee:
 Workshop Venue and Program  {#program}
 -------------------
 
-The workshop will take place together with the <a href="http://ecai2020.eu/">ECAI 2020 conference in Santiago de Compostela</a>.
+The workshop will take place together with the virtual ECAI conference: https://digital.ecai2020.eu/
+
+Date: 5 September 2020
 
 Program: TBD.
 
 
-<small> &nbsp; Last update: February 2020.</small>
+<small> &nbsp; Last update: June 2020.</small>
 
