@@ -19,7 +19,44 @@ Jump to:
 <a href="http://ecai2020.eu/"><img src="./ecai.jpg" height="90" alt="ECAI 2020" style="border: 3px solid #ccc; padding: 0 15px; margin: 0 5px; float: right;"></a> The development of effective techniques for knowledge representation and reasoning (KRR) is a crucial aspect of successful intelligent systems.
  Different representation paradigms, as well as their use in dedicated reasoning systems, have been extensively studied in the past. Nevertheless, new challenges, problems, and issues have emerged in the context of knowledge representation in Artificial Intelligence (AI), involving the logical manipulation of increasingly large information sets (see for example Semantic Web, BioInformatics and so on). Improvements in storage capacity and performance of computing infrastructure have also affected the nature of KRR systems, shifting their focus towards representational power and execution performance. Therefore, KRR research is faced with a challenge of developing knowledge representation structures optimized for large scale reasoning. This new generation of KRR systems includes graph-based knowledge representation formalisms such as Bayesian Networks (BNs), Semantic Networks (SNs), Conceptual Graphs (CGs), Formal Concept Analysis (FCA), CP-nets, GAI-nets, Argumentation Frameworks all of which have been successfully used in a number of applications. The goal of this workshop is to bring together the researchers involved in the development and application of graph-based knowledge representation formalisms and reasoning techniques.  
 
+ 
+Workshop Venue and Program  {#program}
+-------------------
 
+The workshop will take place together with the virtual ECAI conference: [https://digital.ecai2020.eu/](https://digital.ecai2020.eu/)
+We will use zoom as a platform. 
+
+* Joining link: https://vu-live.zoom.us/j/96769804368
+* Meeting ID: 967 6980 4368
+* Password: *will be added shortly before the event to reduce zoom bombing*
+
+
+Date: 5 September 2020
+ 
+Worshop Schedule (all times CEST)
+
+
+[//]: # ( https://stackoverflow.com/questions/7691569/no-line-break-after-a-hyphen )
+
+| 	time	| 	Authors	| 	Title	| 
+| 	 --- 	| 	 --- 	| 	 --- 	| 
+| 	13:00&#8209;13:10	| 		| 	Introduction	| 
+| 	13:10-13:30	| 	Iain Stalker and Nikolay Kazantsev	| 	Collaborative Design and Manufacture: Information Structures for Team Formation and Coordination	| 
+| 	13:30-13:50	| 	Simon Polovina, Wim Laurier, Mark von Rosing and Matt Baxter	| 	Activating Metamodels with Conceptual Structures in Layered Enterprise Architecture	| 
+| 	13:50-14:10	| 	Ovidiu Sonea	| 	Usage Patterns Identiﬁcation Using Graphs and Machine Learning	| 
+| 	14:10-14:30	| 	Marie Bernert and Fano Ramparany	| 	A Belief Revision System Using an Event Transition Model for Location of People in a Smart Home	| 
+| 	14:30-14:50	| 	BREAK	| 		| 
+| 	14:50-15:10	| 	Zhenting Liu and Yiwei Zhang	| 	Hypergraph based graph neural network for literature discovery	| 
+| 	15:10-15-30	| 	Graham Mann, Beena Kishore and Pyara Dhillon	| 	A Natural Language Generation Technique for Automated Psychotherapy	| 
+| 	15:30-15:50	| 	Uta Priss	| 	Set Visualisations with Euler and Hasse Diagrams	| 
+| 	15:50-16:10	| 	Remi Wieten, Floris Bex, Henry Prakken and Silja Renooij	| 	Deductive and Abductive Reasoning with Causal and Evidential Information	| 
+| 	16:10-16:30	| 	Luis Angel Montiel Moreno and Mauricio Osorio	| 	Efriend ::Creative Composition Problem: Knowledge Graph Logical-based AI Construction and Optimization Solution. (Applied in Architecture of AI Agent Chat-bot System for Well-being and Mental Health)	| 
+
+
+
+ 
+
+ 
 
 Submission {#submission}
 -----------------------
@@ -107,15 +144,7 @@ Program committee:
 
 
 
-Workshop Venue and Program  {#program}
--------------------
-
-The workshop will take place together with the virtual ECAI conference: [https://digital.ecai2020.eu/](https://digital.ecai2020.eu/)
-
-Date: 5 September 2020
-
-Program: TBD.
 
 
-<small> &nbsp; Last update: June 2020.</small>
+<small> &nbsp; Last update: September 2020.</small>
 
