@@ -28,7 +28,7 @@ We will use zoom as a platform.
 
 * Joining link: https://vu-live.zoom.us/j/96769804368
 * Meeting ID: 967 6980 4368
-* Password: *will be added shortly before the event to reduce zoom bombing*
+* Password: 551265
 
 
 Date: 5 September 2020
